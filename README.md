@@ -1,10 +1,10 @@
-# Kugawana Sample GIT repository (public)
+# Kugawana Sample Mini site (public)
 
 This is just a sample public repository for the Kugawana initiative.
 
-## About this repository
+## About this site
 
-This is a public repository visible to everybody.
+This is a public site visible to everybody.
 
 It MUST have a README.md (this file) and a LICENSE.
 
